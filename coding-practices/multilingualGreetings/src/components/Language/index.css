@@ -1,0 +1,16 @@
+.btn-container {
+  list-style-type: none;
+  margin-right: 25px;
+}
+
+.btn-style {
+  font-family: 'Roboto';
+  border-radius: 2px solid #db1c48;
+  color: #db1c48;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.un-order {
+  list-style-type: none;
+}

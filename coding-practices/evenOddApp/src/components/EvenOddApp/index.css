@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.app-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  font-size: 40px;
+  color: #0f172a;
+}
+.description {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #334155;
+}
+.nate {
+  font-family: Roboto;
+  color: #1e293b;
+  font-size: 15px;
+}
+.button {
+  color: #0f172a;
+  font-family: Roboto;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  width: 120px;
+}

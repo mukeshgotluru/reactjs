@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo {
+  width: 150px;
+}
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+}

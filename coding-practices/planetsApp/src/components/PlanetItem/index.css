@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.image {
+  width: 250px;
+}
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.name {
+  font-weight: 500;
+  color: #fff;
+  font-size: 35px;
+  font-family: Roboto;
+}
+.description {
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  font-family: Roboto;
+}

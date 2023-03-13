@@ -1,0 +1,41 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 0;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #183b56;
+  margin-bottom: 30px;
+}
+.navbar {
+  background-color: #21eda6;
+  height: 15%;
+  width: 100vh;
+  display: flex;
+  padding: 10px;
+}
+.outreach {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #fff;
+  padding-left: 10px;
+}
+.description {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #fff;
+  padding-left: 10px;
+}
+.logo {
+  border-radius: 250px;
+  width: 40px;
+}

@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  justify-content: center;
+}
+.home {
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+}

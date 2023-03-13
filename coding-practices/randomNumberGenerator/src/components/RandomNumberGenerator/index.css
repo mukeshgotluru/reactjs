@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+}
+.heading {
+  font-size: 25px;
+  color: #0b69ff;
+  text-align: center;
+}
+.container {
+  background-color: #fff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  color: #333333;
+  font-size: 18px;
+  background-color: #0b69ff;
+  border-radius: 8px;
+  border: none;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.count {
+  font-size: 50px;
+  color: #0b69ff;
+}
+.description {
+  font-size: 15px;
+}

@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+.slider-container {
+  background-color: #419be0;
+  padding: 10px;
+}

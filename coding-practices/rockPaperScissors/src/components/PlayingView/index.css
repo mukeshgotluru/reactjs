@@ -1,0 +1,16 @@
+.popup-content {
+  width: 500px;
+  height: 500px;
+}
+
+.icon {
+  align-self: flex-end;
+  font-size: 40px;
+  padding-bottom: 8px;
+}
+@media screen and (min-width: 576px) {
+  .popup-content {
+    width: 400px;
+    height: 400px;
+  }
+}

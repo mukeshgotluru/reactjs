@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: Roboto;
+  color: #551e53;
+}
+.home {
+  width: 250px;
+}

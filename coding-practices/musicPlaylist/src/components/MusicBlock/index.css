@@ -1,0 +1,58 @@
+.music-list-container-block {
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+}
+
+.each-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+}
+.image-element {
+  height: 100px;
+  width: 140px;
+  margin-right: 20px;
+}
+.tract-name {
+  font-size: 20px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.genre {
+  font-size: 20px;
+  color: #3b82f6;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.duration {
+  font-size: 20px;
+  color: #ffffff;
+  font-size: 18px;
+  margin-right: 22px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.del-btn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  border: none;
+}
+.tract-details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.time-delete-container {
+  flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

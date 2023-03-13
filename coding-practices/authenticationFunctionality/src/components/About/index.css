@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-heading {
+  font-family: Roboto;
+  font-weight: 600;
+}

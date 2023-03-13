@@ -1,0 +1,78 @@
+@media screen and (min-width: 567px) {
+  .item-container {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 25px;
+  }
+  .logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .delete-logo {
+    width: 20px;
+    height: 20px;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  .logo-url {
+    width: 60px;
+    height: 60px;
+  }
+  .title {
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .domain {
+    padding-left: 25px;
+    font-family: Roboto;
+    font-size: 20px;
+    color: #64748b;
+  }
+}
+@media screen and (min-width: 768px) {
+  .item-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 1000px;
+    padding: 20px;
+  }
+  .date {
+    padding-right: 20px;
+    font-size: 20px;
+  }
+
+  .logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .title-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo-url {
+    width: 40px;
+    height: 40px;
+  }
+  .title {
+    font-size: 15px;
+    text-align: center;
+    padding-left: 10px;
+  }
+  .delete-container {
+    padding-right: 50px;
+    padding-left: 5px;
+    align-items: flex-end;
+  }
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
